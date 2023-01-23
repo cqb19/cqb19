@@ -1,3 +1,3 @@
-- 👋 Hi, I’m [0x000d0002](https://github.com/0x000d0002)
+- 👋 Hi, I’m [cqb19](https://github.com/cqb19)
 - 👀 Projects with [yemix](https://github.com/yemix)
 - 🌱 I’m currently learning python
